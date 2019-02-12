@@ -5,3 +5,7 @@ OS Dev
 
 - bochs bochs-x
 - nasm
+
+## Resource
+
+- [OSDev](https://wiki.osdev.org/Main_Page)
