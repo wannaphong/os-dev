@@ -9,3 +9,4 @@ OS Dev
 ## Resource
 
 - [OSDev](https://wiki.osdev.org/Main_Page)
+- [How to write a simple operating system](http://mikeos.sourceforge.net/write-your-own-os.html)
